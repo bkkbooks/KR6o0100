@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR6o0100/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6o0100_T_000-0175a, 'n': 0175a, ed: T, source_xml_id: T44.1843.0175a}
+  - {type: line-break, offset: 0, content: '', id: KR6o0100_T_000-0175a01, ed: T, 'n': 0175a01}
+  - {type: line-break, offset: 0, content: '', id: KR6o0100_T_000-0175a02, ed: T, 'n': 0175a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6o0100_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6o0100_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6o0100_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6o0100_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '8', id: KR6o0100_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '4', id: KR6o0100_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '3', id: KR6o0100_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6o0100_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6o0100_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6o0100_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6o0100_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6o0100_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6o0100_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6o0100_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '1', id: KR6o0100_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '6', id: KR6o0100_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '6', id: KR6o0100_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '6', id: KR6o0100_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6o0100_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6o0100_T_000-0175a03, ed: T, 'n': 0175a03}
+  - {type: variant, offset: 142, length: 1, content: 題, 大: 顯}
+  - {type: variant, offset: 1488, length: 1, content: 別, 大: 分別}
+  - {type: variant, offset: 1557, length: 1, content: 復, 大: 後}
+  - {type: variant, offset: 1811, length: 1, content: 思, 大: 恩}
+  - {type: variant, offset: 1941, length: 1, content: 辯, 大: 辨}
+  - {type: variant, offset: 2129, length: 1, content: 末, 大: 來}
+  - {type: variant, offset: 2137, length: 1, content: 已, 大: 亡}
+  - {type: variant, offset: 2176, length: 1, content: 使, 大: 便}
+  - {type: variant, offset: 2558, length: 1, content: 勳, 大: 熏}
+  - {type: variant, offset: 2605, length: 1, content: 讀, 大: 續}
+  - {type: variant, offset: 2661, length: 1, content: 臈, 大: 𣎅}
+  - {type: variant, offset: 2684, length: 1, content: 治, 大: 冶}
+  - {type: variant, offset: 2754, length: 1, content: 修, 大: 終}
+  - {type: variant, offset: 3113, length: 1, content: 著, 大: 差}
+  - {type: variant, offset: 3808, length: 1, content: 穴, 大: 冥}
+  - {type: variant, offset: 3934, length: 1, content: 應, 大: 應說}
+  - {type: variant, offset: 4582, length: 0, content: □, 大: 滅}
+  - {type: variant, offset: 4807, length: 1, content: 著, 大: 差}
+  - {type: variant, offset: 5173, length: 1, content: 勳, 大: 熏}
+  - {type: variant, offset: 5465, length: 1, content: 原, 大: 厚}
+  - {type: variant, offset: 5716, length: 1, content: 示, 大: 亦}
+  - {type: variant, offset: 6673, length: 1, content: 事, 大: 牽}
+  - {type: variant, offset: 6957, length: 2, content: 為名, 大: 名為}
+  - {type: variant, offset: 7515, length: 1, content: 傳, 大: 轉}
+  - {type: variant, offset: 7525, length: 1, content: 題, 大: 顯}
+  - {type: variant, offset: 7876, length: 1, content: 徧, 大: 偏}
+  - {type: variant, offset: 7986, length: 1, content: 神, 大: 錍}
+  - {type: variant, offset: 8372, length: 1, content: 後, 大: 復}
+  - {type: variant, offset: 8998, length: 1, content: 性, 大: 惱}
+  body: []
+  back: []
+hash: sha256:cbcb5b693782ecc83e60f4d276265f0ffc0330cb64dfa8e005bcae07b364de87

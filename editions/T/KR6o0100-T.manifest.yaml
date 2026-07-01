@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6o0100/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0100/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘起信論義疏
+  identifiers:
+    krp: KR6o0100
+    cbeta: T44n1843
+    cbeta_old_id: T44n1843
+    authorityid: CA0002551
+    json_key: T1843
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1843.xml
+    old_id: T44n1843
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0100_000-T.yaml, hash: 'sha256:2d749154770f8288e46f3433bfeb4a26ce514fc0a8e975dcb3433b067ffa8d7d'}
+  - {seq: 2, filename: KR6o0100_002-T.yaml, hash: 'sha256:81c2f98dc6831b5b0f7645486caf06e97e3fda6c145e8ac007864da40dcdae63'}
+  - {seq: 3, filename: KR6o0100_003-T.yaml, hash: 'sha256:5234ca69bab2e5685cd7f42d1a12955836851bd0d696790da3ba41175a576422'}
+  - {seq: 4, filename: KR6o0100_004-T.yaml, hash: 'sha256:f0bba8aa1b644e7fc28323c442a64e902497a96d9ec00bbf13a32544fa5ebbb2'}
+  - {seq: 5, filename: KR6o0100_005-T.yaml, hash: 'sha256:7de3ffef48fdee508b1a9f39a40f40b93ba11bc87be634a9ade6f3e21b68fd77'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0100_000-T.markers.yaml, hash: 'sha256:708f8fa7bc00bf0d945b7f150e2f19a81a4067f8beaa6b6c09dcf1fcfdaa0b4f'}
+  - {seq: 2, role: markers, filename: assets/KR6o0100_002-T.markers.yaml, hash: 'sha256:28598da8f67ae280b5dd1314907a82e38133dbe2e90a2650974fc87293770756'}
+  - {seq: 3, role: markers, filename: assets/KR6o0100_003-T.markers.yaml, hash: 'sha256:71dee7bc2f21c06d179fa43a391a0a974a9877f9c301524cfdad5750fc187914'}
+  - {seq: 4, role: markers, filename: assets/KR6o0100_004-T.markers.yaml, hash: 'sha256:700f89c58b999b9fd5089136e254cf6f283b994b31e4e1baa4d44837a4c2d7f1'}
+  - {seq: 5, role: markers, filename: assets/KR6o0100_005-T.markers.yaml, hash: 'sha256:407fc369a1e395834cef09a0e814e2dedec2693dc99b12c8141cf655774a618d'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6o0100_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 11046
+  label: 大乘起信論義疏上之上
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0100_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 10365
+  label: 大乘起信論義疏上之下
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0100_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 9151
+  label: 大乘起信論義疏下之上
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0100_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 8729
+  label: 大乘起信論義疏下之下
+  type: juan
+  level: 1
+hash: sha256:b128425f91ce6df2f0a2695905bbae23d1881d89b42a0a2ff69cc961ddfb3918

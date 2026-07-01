@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0100/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘起信論義疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1843.xml
+    old_id: T44n1843
+hash: sha256:2d749154770f8288e46f3433bfeb4a26ce514fc0a8e975dcb3433b067ffa8d7d
